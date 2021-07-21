@@ -6,6 +6,7 @@
 
 p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
+  font-family: 'Open Sans', sans-serif;
 }
 
 a, table.table a {
@@ -57,7 +58,7 @@ blockquote {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: 'Open Sans', sans-serif;
     p {
       display: inline-block;
       margin: 0;
