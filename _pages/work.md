@@ -4,7 +4,7 @@ title: Hi, I'm Jerilyn.
 permalink: /
 description: I'm an aspiring software engineer pursuing a B.S. in Computer Science at Cornell University's School of Engineering.
 nav: true
-display_categories: [work, fun]
+display_categories: [projects, fun]
 horizontal: false
 ---
 <div class="projects">

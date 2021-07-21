@@ -96,6 +96,9 @@ collections:
   projects:
     output: true
     permalink: /work/:path/
+  play:
+    output: true
+    permalink: /play/:path/
 
 news_limit: 5
 
