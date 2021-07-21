@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /about
 description: I'm an aspiring software engineer pursuing a B.S. in Computer Science at Cornell University's School of Engineering.
 
