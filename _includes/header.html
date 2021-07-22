@@ -3,7 +3,7 @@
     <!-- Nav Bar -->
     <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
     <div class="container">
-      {% if page.title != "work" %}
+      {% if page.title != "Hi, I'm Jerilyn." %}
       <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl | prepend: site.url }}/">
        {% if site.title == "blank" %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}  {{ site.last_name }}{% else %}{{ site.title }}{% endif %}
       </a>
@@ -41,10 +41,10 @@
             </a>
           </li>
           <!-- About -->
-          <li class="nav-item {% if page.title == 'About' %}active{% endif %}">
+          <li class="nav-item {% if page.title == 'Hello World!' %}active{% endif %}">
             <a class="nav-link" href="{{ '/about' | relative_url }}">
               About
-              {% if page.title == "About" %}
+              {% if page.title == "Hello World!" %}
                 <span class="sr-only">(current)</span>
               {% endif %}
             </a>

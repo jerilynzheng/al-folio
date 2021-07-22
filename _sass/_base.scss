@@ -92,7 +92,7 @@ blockquote {
 
 .navbar {
   box-shadow: none;
-  border-bottom: 1px solid $grey-color-light;
+  border-bottom: none;
   background-color: var(--global-bg-color);
   opacity: 0.95;
 }
@@ -189,7 +189,7 @@ blockquote {
 .social {
   text-align: center;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
     a {
       i::before {
         color: var(--global-text-color);
@@ -319,6 +319,7 @@ footer.sticky-bottom {
     }
     .card-title {
       color: $black-color;
+      font-weight: bolder;
     }
   }
 
