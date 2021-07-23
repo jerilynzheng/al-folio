@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /play
-title: '  '
+title: Play
 description: interests and hobbies
 nav: true
-display_categories: [Fun]
+display_categories:
 horizontal: false
 ---
 <div class="play">

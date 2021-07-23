@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ' '
+title: Work
 permalink: /
 description: Hi, I'm Jerilyn, an aspiring software engineer pursuing a B.S. in Computer Science at Cornell University's School of Engineering.
 nav: true
-display_categories: [Projects]
+display_categories:
 horizontal: false
 ---
 <div class="projects">
@@ -46,7 +46,8 @@ horizontal: false
         </div>
       </div>
     {% else %}
-      <div class="grid">
+      <div class="container">
+        <div class="row row-cols-2">
         {% for project in sorted_projects %}
           {% include projects.html %}
         {% endfor %}

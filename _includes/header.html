@@ -18,19 +18,19 @@
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav ml-auto flex-nowrap">
           <!-- Work -->
-          <li class="nav-item {% if page.title == ' ' %}active{% endif %}">
+          <li class="nav-item {% if page.title == 'Work' %}active{% endif %}">
             <a class="nav-link" href="{{ '/' | relative_url }}">
               Work
-              {% if page.title == " " %}
+              {% if page.title == "Work" %}
                 <span class="sr-only">(current)</span>
               {% endif %}
             </a>
           </li>
           <!-- Play -->
-          <li class="nav-item {% if page.title == '  ' %}active{% endif %}">
+          <li class="nav-item {% if page.title == 'Play' %}active{% endif %}">
             <a class="nav-link" href="{{ '/play' | relative_url }}">
               Play
-              {% if page.title == "  " %}
+              {% if page.title == "Play" %}
                 <span class="sr-only">(current)</span>
               {% endif %}
             </a>
