@@ -18,19 +18,19 @@
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav ml-auto flex-nowrap">
           <!-- Work -->
-          <li class="nav-item {% if page.title == 'Work' %}active{% endif %}">
+          <li class="nav-item {% if page.title == ' ' %}active{% endif %}">
             <a class="nav-link" href="{{ '/' | relative_url }}">
               Work
-              {% if page.title == "Work" %}
+              {% if page.title == " " %}
                 <span class="sr-only">(current)</span>
               {% endif %}
             </a>
           </li>
           <!-- Play -->
-          <li class="nav-item {% if page.title == 'Play' %}active{% endif %}">
+          <li class="nav-item {% if page.title == '  ' %}active{% endif %}">
             <a class="nav-link" href="{{ '/play' | relative_url }}">
               Play
-              {% if page.title == "Play" %}
+              {% if page.title == "  " %}
                 <span class="sr-only">(current)</span>
               {% endif %}
             </a>
@@ -40,6 +40,15 @@
             <a class="nav-link" href="{{ '/about' | relative_url }}">
               About
               {% if page.title == "Hello World!" %}
+                <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+          <!-- CV link -->
+          <li class="nav-item {% if page.title == 'Résumé' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/assets/pdf/resume.pdf' | relative_url }}">
+              Résumé
+              {% if page.title == "'Résumé" %}
                 <span class="sr-only">(current)</span>
               {% endif %}
             </a>

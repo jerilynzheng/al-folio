@@ -2,7 +2,7 @@
 layout: about
 title: Hello World!
 permalink: /about
-description: I'm an aspiring software engineer pursuing a B.S. in Computer Science at Cornell University's School of Engineering.
+description:
 
 profile:
   align: left
