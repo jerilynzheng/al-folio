@@ -24,7 +24,8 @@ horizontal: false
           </div>
         </div>
       {% else %}
-        <div class="grid">
+        <div class="container">
+          <div class="row row-cols-2">
           {% for play in sorted_play %}
             {% include play.html %}
           {% endfor %}
@@ -45,7 +46,8 @@ horizontal: false
         </div>
       </div>
     {% else %}
-      <div class="grid">
+      <div class="container">
+        <div class="row row-cols-2">
         {% for play in sorted_play %}
           {% include play.html %}
         {% endfor %}

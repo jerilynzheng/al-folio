@@ -2,7 +2,7 @@
 layout: page
 title: Work
 permalink: /
-description: Hi, I'm Jerilyn. I'm an aspiring software engineer pursuing a B.S. in Computer Science at Cornell University's School of Engineering.
+description: Hi, I'm Jerilyn, an aspiring software engineer pursuing a B.S. in Computer Science at Cornell University's School of Engineering.
 nav: true
 display_categories: [Projects]
 horizontal: false
@@ -24,7 +24,8 @@ horizontal: false
           </div>
         </div>
       {% else %}
-        <div class="grid">
+        <div class="container">
+          <div class="row row-cols-2">
           {% for project in sorted_projects %}
             {% include projects.html %}
           {% endfor %}
@@ -38,7 +39,7 @@ horizontal: false
     <!-- Generate cards for each project -->
     {% if page.horizontal %}
       <div class="container">
-        <div class="row row-cols-2">
+        <div class="row row-cols-4">
         {% for project in sorted_projects %}
           {% include projects_horizontal.html %}
         {% endfor %}
