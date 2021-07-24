@@ -2,7 +2,7 @@
 layout: page
 title: Work
 permalink: /
-description: Hi, I'm Jerilyn, an aspiring software engineer pursuing a B.S. in Computer Science at Cornell University's School of Engineering.
+description: Hi, I'm Jerilyn.
 nav: true
 display_categories:
 horizontal: false

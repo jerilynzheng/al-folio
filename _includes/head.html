@@ -6,7 +6,7 @@
 {% if site.title == "blank" %}
   {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}
 {% else %}
-  <span style="margin-left:1em">{{ site.title }} </span>
+  {{ site.title }}
 {% endif %}
 {% if page.title != "blank" and page.url != "/" %}
   | {{ page.title }}

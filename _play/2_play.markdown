@@ -1,10 +1,10 @@
 ---
 layout: page
-title: play 2
-description: a project with a background image
-img: /assets/img/3.jpg
+title: Food
+description:
+img: /assets/img/5.jpg
 importance: 2
-category: Fun
+category:
 ---
 
 Every project has a beautiful feature showcase page.

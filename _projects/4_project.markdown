@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Vision
+description:
+img: /assets/img/10.jpg
 importance: 3
 category:
 ---

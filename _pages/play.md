@@ -2,7 +2,7 @@
 layout: page
 permalink: /play
 title: Play
-description: interests and hobbies
+description:
 nav: true
 display_categories:
 horizontal: false

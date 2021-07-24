@@ -1,10 +1,10 @@
 ---
 layout: page
-title: play 4
-description: another without an image
-img:
+title: Popular Culture
+description:
+img: /assets/img/7.jpg
 importance: 3
-category: Fun
+category:
 ---
 
 Every project has a beautiful feature showcase page.

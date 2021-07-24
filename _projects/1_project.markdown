@@ -2,7 +2,7 @@
 layout: page
 title: Similar Singer
 description:
-img: /assets/img/12.jpg
+img: /assets/img/simsing.jpg
 importance: 1
 category:
 ---
