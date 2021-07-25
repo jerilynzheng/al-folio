@@ -11,6 +11,7 @@ p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
 
 p {
   margin-right: 10%;
+  margin-left: 60%
 }
 h2 {
   font-size: 1rem;
@@ -28,6 +29,9 @@ h3 {
   font-weight: bold;
 }
 
+h4 {
+  margin-bottom: 4rem;
+}
 
 a, table.table a {
   color: var(--global-theme-color);
@@ -74,6 +78,7 @@ blockquote {
 .profile {
   margin-left: 10%;
   margin-right: 2rem;
+  margin-bottom: 2rem;
   width: 100%;
 
   .address {
@@ -89,7 +94,7 @@ blockquote {
 
 @media (min-width: 500px) {
   .profile {
-    width: 40%;
+    max-width: 40%;
     .address {
       p { display: block; }
     }
