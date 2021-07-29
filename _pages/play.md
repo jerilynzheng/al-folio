@@ -47,7 +47,7 @@ horizontal: false
       </div>
     {% else %}
       <div class="container">
-        <div class="row row-cols-2 row-cols-xs-1 row-cols-sm-1 row-cols-md-2">
+        <div class="row row-cols-1 row-cols-xs-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2 row-cols-xl-2">
         {% for play in sorted_play %}
           {% include play.html %}
         {% endfor %}
