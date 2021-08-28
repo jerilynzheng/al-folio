@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: descrip
 title: Analog
 description:
 img: /assets/img/7.jpg

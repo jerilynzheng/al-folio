@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: descrip
 title: Vision
 description:
 img: /assets/img/10.jpg
