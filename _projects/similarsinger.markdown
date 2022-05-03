@@ -9,28 +9,46 @@ category:
 
 # Similar Singer
 
-*Overview*
-
+##Overview
 
 **Problem**
 
+We wanted to create a useful recommendation system that could be a tool in the everyday lives of people.
+
+After speaking with friends, family, and others, we identified possible improvements to how music is currently recommended. Mainly done through screaming platforms, services like Spotify’s Related Artists and Apple Music’s recommendations give suggestions for popular artists based on their shared listeners and genre, but do not take other user preferences into account.
+
+How might we…
+1. Create a platform that is personalized and gives the users recommendations that are more tailored to their tastes?
+2. Allow users to specify the type of songs they want?
+3. Give users the option to sample these songs and immediately access new music?
+
 **Team**
 
-Timeline
+We were a small team of 5:
+- Me, PM & Data Back-End
+- Celine: Front-End
+- Alyssa: Web & Data Back-End
+- Mahak: Front-End
+- Jasper: Web Back-End
 
-Outcome
+**Timeline**
 
-Features
+We started brainstorming in mid-March and launched the final version of [Similar Singer](https://similarsinger-final.herokuapp.com/) mid-May.
 
-Product
+##Outcome
 
-Challenges
+**Features**
 
-Launch
+##Product
 
-Impact
+**Challenges**
 
-Learnings
+**Launch**
+
+**Impact**
+
+##Learnings
+
 
 This app is different from existing online services like Spotify’s Related Artists feature and Apple Music’s recommendations. These services rely on shared listeners to recommend other artists. Our app utilizes the lyrics similarity between the songs of artists, as well as the genre similarity between artists. It also has the ability to take in more detailed user preferences with liked artists and disliked artists inputs. Similar Singer can also take in multiple liked artists and disliked artists, representing a user’s more general tastes rather than just one artist that they enjoy. We also allowed the user to give a description of the type of music/artist they wanted to see with a linguistic descriptor, allowing them to personalize their suggestions even more. For the output information, we provided the user with more details about the recommended artists, like album reviews and ratings, their top songs, genres, followings, and ranked similarities to the input.
 
