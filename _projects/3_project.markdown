@@ -1,9 +1,8 @@
 ---
 layout: descrip
-title: Analog
+title: Feed
 description:
-img: /assets/img/7.jpg
-redirect: https://unsplash.com
+img: /assets/img/feed.jpg
 importance: 3
 category:
 ---

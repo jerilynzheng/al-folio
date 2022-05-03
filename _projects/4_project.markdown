@@ -1,8 +1,8 @@
 ---
 layout: descrip
-title: Vision
+title: Eating Out
 description:
-img: /assets/img/10.jpg
+img: /assets/img/eatingout.jpg
 importance: 3
 category:
 ---

@@ -2,7 +2,7 @@
 layout: descrip
 title: Onomatic
 description:
-img: /assets/img/3.jpg
+img: /assets/img/onomatic.jpg
 importance: 2
 category:
 ---
