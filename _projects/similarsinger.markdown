@@ -17,7 +17,7 @@ Product Manager & Backend / February 2021 to May 2021
     </div>
 </div>
 
-[Similar Singer](https://similarsinger-final.herokuapp.com/) is a ==musical artist recommendation engine== that allows users to get new artist and song recommendations based on their current musical preferences. As a final project for CS 4300: Language and Information, it served as the culminating experience of months of work within a remote team.
+[Similar Singer](https://similarsinger-final.herokuapp.com/) is a musical artist recommendation engine that allows users to get new artist and song recommendations based on their current musical preferences. As a final project for CS 4300: Language and Information, it served as the culminating experience of months of work within a remote team.
 
 I was the PM and backend developer on the project and helped lead a group of 5 from ideation to launch in 3 months.
 
@@ -64,6 +64,12 @@ Features:
 - Pitchfork album reviews and ratings
 
 **Product**
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/image1.jpg' | relative_url }}" alt="" title="image1"/>
+    </div>
+</div>
 
 **Co-building with users**
 
