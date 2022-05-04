@@ -9,7 +9,25 @@ category:
 
 # Similar Singer
 
-##Overview
+Product Manager & Backend / February 2021 to May 2021
+
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/simsing.jpg' | relative_url }}" alt="" title="similar singer"/>
+    </div>
+</div>
+</div>
+
+[Similar Singer](https://similarsinger-final.herokuapp.com/) is a ==musical artist recommendation engine== that allows users to get new artist and song recommendations based on their current musical preferences. As a final project for CS 4300: Language and Information, it served as the culminating experience of months of work within a remote team.
+
+I was the PM and backend developer on the project and helped lead a group of 5 from ideation to launch in 3 months.
+
+---
+
+# Similar Singer
+
+## Overview
 
 **Problem**
 
@@ -35,39 +53,89 @@ We were a small team of 5:
 
 We started brainstorming in mid-March and launched the final version of [Similar Singer](https://similarsinger-final.herokuapp.com/) mid-May.
 
-##Outcome
+## Outcome
 
-**Features**
 
-##Product
+Features:
+
+- User can input multiple liked and disliked artists
+- User can give a description of the type of music/artist they want to see with a linguistic descriptor
+- Analysis of lyric and genre similarity to find best match for user
+- Similarity score of results to user’s preferences
+- Information about recommended artists
+- Genres
+- Ranked similarities to user’s preferences
+- Spotify submodule of top songs and followings
+- Pitchfork album reviews and ratings
+
+## Product
+
+**Co-building with users**
+
+We made numerous prototypes and tested them with users to get their feedback.
+
+Key takeaways:
+
+Our initial instinct was to utilize just cosine similarity and natural language processing, but those did not impact the results as much as we thought.
+The Heroku platform was finicky at times, and getting + maintaining data from Spotify and Pitchfork was trickier than expected.
+We initially had lyric similarity and genre similarity weighted equally, but after speaking with potential users, they wanted genre to be weighed heavier.
+Users like the ability to have suggested artists and play songs right away.
 
 **Challenges**
 
+The biggest challenge came from working in multiple different time zones and making sure that we kept making progress. To consistently meet and align goals and responsibilities, we had weekly meetings and milestone submissions. I directed the group and organized the direction of these sessions, working to resolve issues methodically. I also acted to prioritize key product features and capabilities, thinking about the user first.
+
+Technical Updates:
+- When a user is interested in music without lyrics, we need to prioritize the genre of their liked artist
+- Social Component: users want to see artists that other similar users also listen to, so we realized we needed to incorporate shared followers
+- Utilizing machine learning with an LDA model with a tokenized, lemmatized corpus of around 1,200 Pitchfork albums: topic modeling with a much larger corpus from both Amazon and Pitchfork resulted in non-English language reviews
+- Dynamic: using the rocchio update algorithm, we combined the liked and disliked artists from the user to vectorize their preferences
+
 **Launch**
 
+[First Demo](https://similarsinger.herokuapp.com/ )
+
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/milestone1.jpg' | relative_url }}" alt="" title="milestone1"/>
+    </div>
+</div>
+</div>
+
+[Second Demo](https://similarsinger-prototype2.herokuapp.com/ )
+
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/milestone2.jpg' | relative_url }}" alt="" title="milestone2"/>
+    </div>
+</div>
+</div>
+
+[Final Product](https://similarsinger-final.herokuapp.com/ )
+
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/finalmilestone1.jpg' | relative_url }}" alt="" title="final1"/>
+    </div>
+</div>
+</div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/finalmilestone2.jpg' | relative_url }}" alt="" title="final2"/>
+    </div>
+</div>
+</div>
+
 **Impact**
+Our final product culminated in a user experience that many wanted to recommend to their friends and family. The integration of Spotify and Pitchfork made it easy for users to find songs and albums immediately. Users updated their playlists and libraries immediately.
 
-##Learnings
-
-
-This app is different from existing online services like Spotify’s Related Artists feature and Apple Music’s recommendations. These services rely on shared listeners to recommend other artists. Our app utilizes the lyrics similarity between the songs of artists, as well as the genre similarity between artists. It also has the ability to take in more detailed user preferences with liked artists and disliked artists inputs. Similar Singer can also take in multiple liked artists and disliked artists, representing a user’s more general tastes rather than just one artist that they enjoy. We also allowed the user to give a description of the type of music/artist they wanted to see with a linguistic descriptor, allowing them to personalize their suggestions even more. For the output information, we provided the user with more details about the recommended artists, like album reviews and ratings, their top songs, genres, followings, and ranked similarities to the input.
-
-From the first prototype to the second, we added a similarity subscore for genres, computed via Jaccard, to the final score. Since there are both liked and disliked artists, we used Rocchio to combine the Jaccard vectors for each artist given by the user. Using min/max scaling, we normalized both genre and lyric similarity scores to be between 0 and 1. Both scores are equally weighed. Next, we filtered the list of artists by follower count before ranking them by final similarity score. We set the minimum follower count to be a certain percentage of the liked artist’s follower count (in the second prototype, the percentage is 50%).
-
-In the final prototype, we added the score obtained from the linguistic description to the final score. Then we changed the weights around to see which combination gave us results that were highly expected. We ended up weighing the genre score twice as much as the other two scores, because for artists that either do not have lyrics in their songs or use a foreign language, our lyric similarity score is a lot less accurate than genre. We also changed the rocchio coefficients to favor the liked artists’ genres more than the disliked artist’s genres. Also, we lowered the percentage of the liked artists’ average follower count to 20% because with the 50% threshold, the recommended list for popular artists like Drake would be composed solely of other popular artists that may not be so similar in terms of genre or lyrics.
-
-Since the previous prototype, we were able to implement topic modeling for the linguistic description query. We trained an LDA model with a tokenized, lemmatized corpus of around 1,200 Pitchfork album (web-scraped) reviews to identify 10 topics with about 10 words in each. We used these topics to create a mapping from input query to topic to artist. Given a user’s natural language query, we would identify which topic was most likely to be associated with their query. Then, we would find the artists most likely to be associated with that topic and weigh those artists a little bit higher in the final scoring.
-
-Initially, we tried to train the LDA model on a much larger corpus that was a combination of Pitchfork and Amazon music reviews but had issues with noisy data as well as difficulty parsing out non-English reviews (there were lots of Spanish-language reviews in the dataset). Eventually, we narrowed down the dataset to include only words that appeared in at least two documents and excluded words that appeared in more than 80% of the documents. We also trained multiple LDA models to find the optimal topic count to maximize topic coherence and minimize word overlap and found the value to be around k=10.
-
-**Applied Concepts:**
-
--TF-IDF Matrix - vectorized each artist document which is comprised of the lyrics for their top ten songs
-
--Cosine Similarity - calculate lyric similarity using the TF-IDF matrix after SVD
-
--Jaccard Similarity - calculate genre similarity between two artists, stored in a matrix
-
--Rocchio Update Algorithm - combine liked and disliked artist vectors from the TF-IDF matrix and genre vectors from the Jaccard matrix
-
--SVD - reduce dimensionality of TF-IDF matrix
+## Learnings
+- Teamwork: Team members all need to work together and communicate roles. You have to be there to help ensure that your members feel supported and able to express their ideas.
+- Problem Solving: From the moment we started the project, every part involved some sort of adaptation and adjustment to road blocks. Taking these strides in place and learning how to fix issues without changing the original goal meant using analytical skills and flexibility.
+- Technical: The overall scope of the project involved many moving parts and concepts, including machine learning, natural language processing, data science, and web development. If there was something we did not understand, we did not hesitate to ask each other or do research.
+- Communication: Platforms like Zoom and Slack made it a lot easier to meet with group members, but group meetings were key to our success. I outlined agendas and came in with how we needed to adapt to user needs. When we left these meetings, we had clear goals and how to shift.
+- Presentation: Users like a clean, usable product. We created a design that looked aesthetically pleasing but also conveyed a lot of information without being overwhelming. I learned that having an intuitive product is key to success.
