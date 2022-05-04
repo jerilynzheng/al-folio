@@ -7,18 +7,20 @@ importance: 3
 category:
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+# Feed
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Current
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/feed.jpg' | relative_url }}" alt="" title="feed"/>
+    </div>
+</div>
+
+[Similar Singer](https://similarsinger-final.herokuapp.com/) is a musical artist recommendation engine that allows users to get new artist and song recommendations based on their current musical preferences. As a final project for CS 4300: Language and Information, it served as the culminating experience of months of work within a remote team.
+
+I was the PM and backend developer on the project and helped lead a group of 5 from ideation to launch in 3 months.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

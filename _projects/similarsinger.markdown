@@ -16,6 +16,9 @@ Product Manager & Backend / February 2021 to May 2021
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/simsing2.jpg' | relative_url }}" alt="" title="similar singer"/>
     </div>
 </div>
+<div class="caption">
+    Similar Singer
+</div>
 
 [Similar Singer](https://similarsinger-final.herokuapp.com/) is a musical artist recommendation engine that allows users to get new artist and song recommendations based on their current musical preferences. As a final project for CS 4300: Language and Information, it served as the culminating experience of months of work within a remote team.
 
@@ -70,6 +73,9 @@ Features:
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/image1.jpg' | relative_url }}" alt="" title="image1"/>
     </div>
 </div>
+<div class="caption">
+    Final Results
+</div>
 
 **Co-building with users**
 
@@ -101,6 +107,9 @@ Technical Updates:
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/milestone1.jpg' | relative_url }}" alt="" title="milestone1"/>
     </div>
 </div>
+<div class="caption">
+    First Iteration
+</div>
 
 [Second Demo](https://similarsinger-prototype2.herokuapp.com/ )
 
@@ -108,6 +117,9 @@ Technical Updates:
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/milestone2.jpg' | relative_url }}" alt="" title="milestone2"/>
     </div>
+</div>
+<div class="caption">
+    Second Iteration
 </div>
 
 [Final Product](https://similarsinger-final.herokuapp.com/ )
@@ -117,11 +129,17 @@ Technical Updates:
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/finalmilestone1.jpg' | relative_url }}" alt="" title="final1"/>
     </div>
 </div>
+<div class="caption">
+    Final Results with Songs
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/finalmilestone2.jpg' | relative_url }}" alt="" title="final2"/>
     </div>
+</div>
+<div class="caption">
+    All of Final Results
 </div>
 
 **Impact**
