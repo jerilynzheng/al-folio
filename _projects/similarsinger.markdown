@@ -11,12 +11,10 @@ category:
 
 Product Manager & Backend / February 2021 to May 2021
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/simsing.jpg' | relative_url }}" alt="" title="similar singer"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/simsing2.jpg' | relative_url }}" alt="" title="similar singer"/>
     </div>
-</div>
 </div>
 
 [Similar Singer](https://similarsinger-final.herokuapp.com/) is a ==musical artist recommendation engine== that allows users to get new artist and song recommendations based on their current musical preferences. As a final project for CS 4300: Language and Information, it served as the culminating experience of months of work within a remote team.
@@ -25,9 +23,7 @@ I was the PM and backend developer on the project and helped lead a group of 5 f
 
 ---
 
-# Similar Singer
-
-## Overview
+**Overview**
 
 **Problem**
 
@@ -53,8 +49,7 @@ We were a small team of 5:
 
 We started brainstorming in mid-March and launched the final version of [Similar Singer](https://similarsinger-final.herokuapp.com/) mid-May.
 
-## Outcome
-
+**Outcome**
 
 Features:
 
@@ -68,7 +63,7 @@ Features:
 - Spotify submodule of top songs and followings
 - Pitchfork album reviews and ratings
 
-## Product
+**Product**
 
 **Co-building with users**
 
@@ -95,45 +90,40 @@ Technical Updates:
 
 [First Demo](https://similarsinger.herokuapp.com/ )
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/milestone1.jpg' | relative_url }}" alt="" title="milestone1"/>
     </div>
 </div>
-</div>
 
 [Second Demo](https://similarsinger-prototype2.herokuapp.com/ )
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/milestone2.jpg' | relative_url }}" alt="" title="milestone2"/>
     </div>
 </div>
-</div>
 
 [Final Product](https://similarsinger-final.herokuapp.com/ )
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/finalmilestone1.jpg' | relative_url }}" alt="" title="final1"/>
     </div>
 </div>
-</div>
-</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/finalmilestone2.jpg' | relative_url }}" alt="" title="final2"/>
     </div>
 </div>
-</div>
 
 **Impact**
+
 Our final product culminated in a user experience that many wanted to recommend to their friends and family. The integration of Spotify and Pitchfork made it easy for users to find songs and albums immediately. Users updated their playlists and libraries immediately.
 
-## Learnings
+**Learnings**
+
 - Teamwork: Team members all need to work together and communicate roles. You have to be there to help ensure that your members feel supported and able to express their ideas.
 - Problem Solving: From the moment we started the project, every part involved some sort of adaptation and adjustment to road blocks. Taking these strides in place and learning how to fix issues without changing the original goal meant using analytical skills and flexibility.
 - Technical: The overall scope of the project involved many moving parts and concepts, including machine learning, natural language processing, data science, and web development. If there was something we did not understand, we did not hesitate to ask each other or do research.
