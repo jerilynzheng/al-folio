@@ -22,6 +22,8 @@ Current
 
 **Overview**
 
-- Finding the best food/travel based on specific personal preferences
+Eating Out is a service that improves upon how current food searches function. Rather than finding the top places based on just other user reviews, it gives the user the option to specific exactly what they want. It also provides a comprehensive look at the menu to show exactly what dishes to order and the pricing.
+
+- Finding the best food based on specific personal preferences
 - Takes parameters into account (number of people, prices, portion sizes, leftovers, pictures)
 - Specifics for food restrictions and allergies (protein, keto diet, dietary restrictions, calories)
