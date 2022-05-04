@@ -16,6 +16,9 @@ Product Manager & Backend / Fall 2021 to Present
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/onomatic.jpg' | relative_url }}" alt="" title="onomatic"/>
     </div>
 </div>
+<div class="caption">
+    Onomatic
+</div>
 
 Onomatic is a tool that utilizes sound to teach language. Deriving from onomatopoeia, the formation of a word through the phonetic imitation of the sound it makes, this system focuses on listening and speaking tools to help users learn.
 
