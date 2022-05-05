@@ -13,7 +13,7 @@ Product Manager & Backend / Fall 2021 to Present
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/onomatic.jpg' | relative_url }}" alt="" title="onomatic"/>
+        <img class="center" src="{{ '/assets/img/onomatic.jpg' | relative_url }}" alt="" title="onomatic"/>
     </div>
 </div>
 <div class="caption">
@@ -58,7 +58,7 @@ If comparing Onomatic to existing systems, this application takes existing eleme
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/cardset.jpg' | relative_url }}" alt="" title="lesson"/>
+        <img class="center" src="{{ '/assets/img/cardset.jpg' | relative_url }}" alt="" title="lesson"/>
     </div>
 </div>
 <div class="caption">
@@ -67,7 +67,7 @@ If comparing Onomatic to existing systems, this application takes existing eleme
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/card.jpg' | relative_url }}" alt="" title="front"/>
+        <img class="center" src="{{ '/assets/img/card.jpg' | relative_url }}" alt="" title="front"/>
     </div>
 </div>
 <div class="caption">
