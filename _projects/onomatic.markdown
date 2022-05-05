@@ -76,7 +76,7 @@ If comparing Onomatic to existing systems, this application takes existing eleme
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/cardback.jpg' | relative_url }}" alt="" title="back"/>
+        <img class="center" src="{{ '/assets/img/cardback.jpg' | relative_url }}" alt="" title="back"/>
     </div>
 </div>
 <div class="caption">

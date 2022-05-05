@@ -13,7 +13,7 @@ Product Manager & Backend / February 2021 to May 2021
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/simsing2.jpg' | relative_url }}" alt="" title="similar singer"/>
+        <img class="center" src="{{ '/assets/img/simsing2.jpg' | relative_url }}" alt="" title="similar singer"/>
     </div>
 </div>
 <div class="caption">
@@ -70,7 +70,7 @@ Features:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/image1.jpg' | relative_url }}" alt="" title="image1"/>
+        <img class="center" src="{{ '/assets/img/image1.jpg' | relative_url }}" alt="" title="image1"/>
     </div>
 </div>
 <div class="caption">
@@ -83,10 +83,10 @@ We made numerous prototypes and tested them with users to get their feedback.
 
 Key takeaways:
 
-Our initial instinct was to utilize just cosine similarity and natural language processing, but those did not impact the results as much as we thought.
-The Heroku platform was finicky at times, and getting + maintaining data from Spotify and Pitchfork was trickier than expected.
-We initially had lyric similarity and genre similarity weighted equally, but after speaking with potential users, they wanted genre to be weighed heavier.
-Users like the ability to have suggested artists and play songs right away.
+- Our initial instinct was to utilize just cosine similarity and natural language processing, but those did not impact the results as much as we thought.
+- The Heroku platform was finicky at times, and getting + maintaining data from Spotify and Pitchfork was trickier than expected.
+- We initially had lyric similarity and genre similarity weighted equally, but after speaking with potential users, they wanted genre to be weighed heavier.
+- Users like the ability to have suggested artists and play songs right away.
 
 **Challenges**
 
@@ -100,33 +100,27 @@ Technical Updates:
 
 **Launch**
 
-[First Demo](https://similarsinger.herokuapp.com/ )
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/milestone1.jpg' | relative_url }}" alt="" title="milestone1"/>
+        <img class="center" src="{{ '/assets/img/milestone1.jpg' | relative_url }}" alt="" title="milestone1"/>
     </div>
 </div>
 <div class="caption">
-    First Iteration
+    First Demo
 </div>
-
-[Second Demo](https://similarsinger-prototype2.herokuapp.com/ )
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/milestone2.jpg' | relative_url }}" alt="" title="milestone2"/>
+        <img class="center" src="{{ '/assets/img/milestone2.jpg' | relative_url }}" alt="" title="milestone2"/>
     </div>
 </div>
 <div class="caption">
-    Second Iteration
+    Second Demo
 </div>
-
-[Final Product](https://similarsinger-final.herokuapp.com/ )
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/finalmilestone1.jpg' | relative_url }}" alt="" title="final1"/>
+        <img class="center" src="{{ '/assets/img/finalmilestone1.jpg' | relative_url }}" alt="" title="final1"/>
     </div>
 </div>
 <div class="caption">
@@ -135,12 +129,21 @@ Technical Updates:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/finalmilestone2.jpg' | relative_url }}" alt="" title="final2"/>
+        <img class="center" src="{{ '/assets/img/finalmilestone2.jpg' | relative_url }}" alt="" title="final2"/>
     </div>
 </div>
 <div class="caption">
-    All of Final Results
+    Final Product
 </div>
+
+Links:
+
+[First Demo](https://similarsinger.herokuapp.com/ )
+
+[Second Demo](https://similarsinger-prototype2.herokuapp.com/ )
+
+[Final Product](https://similarsinger-final.herokuapp.com/ )
+
 
 **Impact**
 
