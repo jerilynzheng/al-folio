@@ -7,7 +7,7 @@ importance: 2
 category:
 ---
 
-###### Onomatic
+**Onomatic**
 
 Product Manager & Backend / Fall 2021 to Present
 

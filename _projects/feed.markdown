@@ -7,7 +7,9 @@ importance: 3
 category:
 ---
 
-###### Feed
+**Feed**
+
+Current
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -18,11 +20,9 @@ category:
     Feed
 </div>
 
-Current
+Feed is centered around images for one particular food item. Users compile their own descriptiion and recipes including this item, or just the singular ingredient itself. They tell their personal stories behind the food and why it is meaningful to them.
 
 **Overview**
-
-Feed is centered around images for one particular food item. Users compile their own descriptiion and recipes including this item, or just the singular ingredient itself. They tell their personal stories behind the food and why it is meaningful to them.
 
 **Problem**
 
@@ -36,7 +36,9 @@ How we're approaching this:
 
 All of these different facets of food have stories behind them. We want people to share and connect.
 
-###### Eating Out
+---
+
+**Eating Out**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -49,9 +51,11 @@ All of these different facets of food have stories behind them. We want people t
 
 Another project that I am in the midst of working on. This is currently in the prototyping stage.
 
-**Overview**
-
 Eating Out is a service that improves upon how current food searches function. Rather than finding the top places based on just other user reviews, it gives the user the option to specific exactly what they want. It also provides a comprehensive look at the menu to show exactly what dishes to order and the pricing.
+
+---
+
+**Overview**
 
 - Finding the best food based on specific personal preferences
 - Takes parameters into account (number of people, prices, portion sizes, leftovers, pictures)
