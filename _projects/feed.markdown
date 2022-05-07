@@ -36,10 +36,39 @@ How we're approaching this:
 
 All of these different facets of food have stories behind them. We want people to share and connect.
 
+###### Eating Out
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="center" src="{{ '/assets/img/eatingout.jpg' | relative_url }}" alt="" title="eating out"/>
+    </div>
+</div>
+<div class="caption">
+    Eating Out
+</div>
+
+Another project that I am in the midst of working on. This is currently in the prototyping stage.
+
+**Overview**
+
+Eating Out is a service that improves upon how current food searches function. Rather than finding the top places based on just other user reviews, it gives the user the option to specific exactly what they want. It also provides a comprehensive look at the menu to show exactly what dishes to order and the pricing.
+
+- Finding the best food based on specific personal preferences
+- Takes parameters into account (number of people, prices, portion sizes, leftovers, pictures)
+- Specifics for food restrictions and allergies (protein, keto diet, dietary restrictions, calories)
+
+**Problem**
+
+This idea came about when I was frustrated with current food review apps. Yelp, with its vast amount of reviews and information, could not help me narrow down the decision of was "the best". Basic information that would be easy to ask in the restaurant took lots of searching and filtering to find.
+
 **Team**
 
-This team is still in process 
+Both of these teams are still in the process of being refined.
 
-**Product**
+**Learnings (so far)**
 
-**Future**
+These projects are in their early stages, but it's extremely exciting to try and come up with interesting ideas and bring them to fruition.
+
+- Research: in reading how others write about food, it's interesting how it can range from heartfelt prose to something as simple as "I like this because it tastes good." The nuances of how people approach this topic (and what they prefer) are super intriguing. 
+- Communication: the visual aspect of this platform will be extremely important. Food is such a visual medium that when combined with text, we will need ensure that the inferface is clean and minimalistic.
+- Problem Solving: I am thinking about how to ensure that the information from third-party sources is vetted and consistent. Specifically with restaurants, I am thinking of using users to verify details like price, food images, and dietary restrictions.
