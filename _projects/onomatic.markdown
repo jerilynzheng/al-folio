@@ -7,7 +7,7 @@ importance: 2
 category:
 ---
 
-# Onomatic
+###### Onomatic
 
 Product Manager & Backend / Fall 2021 to Present
 
@@ -39,7 +39,19 @@ world.
 3. Memory: We want users to remember the language long-term and be able to
 apply their knowledge outside of the classroom.
 
-**Features**
+**Team**
+
+We are a small team of 3, working across coasts. I am the product manager.
+
+**Timeline**
+
+We started in Fall 2021, and are currently working on turning this into a nonprofit organization. We 
+want to scale the languages and lessons to the point where they can be used in classrooms to help students.
+
+
+**Outcome**
+
+Features:
 
 1. Sound: Proper pronunciation of word, definition, example usages in every language
 2. Lessons: Sets of words used in specific scenarios
@@ -52,6 +64,7 @@ create their own sets
 On each card, you can hear the word, hear a sentence with the word, and toggle back and forth between languages. Users can also create their own lessons, with all of the same features available to them. Additionally, users can jot down notes on the word or memory devices, either by recording their cues or typing them. Users create accounts to track progress on their favorite sets and follow lesson plans.
 
 If comparing Onomatic to existing systems, this application takes existing elements from Duolingo and Quizlet, such as flashcards and language learning. However, it adds additional features tailored towards introductory language learners focusing on vocabulary. Onomatic will also provide a core feature allowing for users to record their own audio for phrases, sentences, definitions, and more. Each user-created audio recording will come with information about where the speaker comes from and what type of accent or dialect is used by the speaker. 
+
 
 
 **Product**
@@ -94,3 +107,9 @@ There is also a question and answer interface integrated into Onomatic. The focu
 **Future**
 
 Eventually, a question and answer type interface will be integrated into the website. The focus of the interface will be elicitations with other users. For example, one user could ask for someone to say a specific phrase or sentence in a certain dialect or accent, and other users could reply with a recording of their own voice.
+
+**Learnings (so far)**
+
+- Time: it is extremely tricky working with no real deadline. To coordinate with my team,
+ I often have to plan out an exact timeline and come up with milestones we need to hit in order to stay on track.
+- Usability: because we are designing for a specific sector of users, it's hard to get feedback until we can test in classrooms.

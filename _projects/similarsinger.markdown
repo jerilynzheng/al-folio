@@ -7,7 +7,7 @@ importance: 1
 category:
 ---
 
-# Similar Singer
+###### Similar Singer
 
 Product Manager & Backend / February 2021 to May 2021
 
@@ -138,11 +138,9 @@ Technical Updates:
 
 Links:
 
-[First Demo](https://similarsinger.herokuapp.com/ )
-
-[Second Demo](https://similarsinger-prototype2.herokuapp.com/ )
-
-[Final Product](https://similarsinger-final.herokuapp.com/ )
+- [First Demo](https://similarsinger.herokuapp.com/ )
+- [Second Demo](https://similarsinger-prototype2.herokuapp.com/ )
+- [Final Product](https://similarsinger-final.herokuapp.com/ )
 
 
 **Impact**
