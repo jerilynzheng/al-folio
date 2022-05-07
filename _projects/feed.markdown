@@ -22,6 +22,8 @@ Current
 
 Feed is centered around images for one particular food item. Users compile their own descriptiion and recipes including this item, or just the singular ingredient itself. They tell their personal stories behind the food and why it is meaningful to them.
 
+---
+
 **Overview**
 
 **Problem**
