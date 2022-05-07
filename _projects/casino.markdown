@@ -1,8 +1,8 @@
 ---
 layout: descrip
-title: Eating Out
+title: Casino
 description:
-img: /assets/img/eatingout.jpg
+img: /assets/img/casino.jpg
 importance: 3
 category:
 ---
