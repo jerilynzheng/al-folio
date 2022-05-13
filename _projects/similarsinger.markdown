@@ -59,12 +59,12 @@ Features:
 - User can input <mark>multiple liked and disliked artists</mark>
 - User can give a description of the type of music/artist they want to see with a <mark>linguistic descriptor<mark>
 - Analysis of <mark>lyric and genre similarity</mark> to find best match for user
-- **Similarity score** of results to user’s preferences
+- Similarity score of results to user’s preferences
 - <mark>Information</mark> about recommended artists
 - Genres
 - <mark>Ranked similarities</mark> to user’s preferences
-- **Spotify** submodule of top songs and followings
-- **Pitchfork** album reviews and ratings
+- Spotify submodule of top songs and followings
+- Pitchfork album reviews and ratings
 
 **Product**
 
