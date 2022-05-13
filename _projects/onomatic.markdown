@@ -112,3 +112,4 @@ Eventually, a <mark>question and answer</mark> type interface will be integrated
  I often have to plan out an exact timeline and come up with milestones we need to hit in order to stay on track.
 - <mark>Usability</mark>: because we are designing for a specific sector of users, it's hard to get feedback until we can test in classrooms.
 - <mark>Context</mark>: Our team is familiar with English, Chinese, Arabic, and Spanish, but with other languages, we will need to find ways to check cultural context without our own knowledge.
+- <mark>Expansion</mark>: We are working to turn this project into a registered non-profit. This summer, our team will be all around the world getting more international expereince, while simultaneously working within the US to follow the proper procedures and compliance.
