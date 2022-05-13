@@ -8,8 +8,6 @@ display_categories:
 horizontal: false
 ---
 
-I'm an incoming associate at BCG graduating from Cornell University with a B.S. in Computer Science.
-
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
