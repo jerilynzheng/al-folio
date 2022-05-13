@@ -32,7 +32,7 @@ I was the PM and backend developer on the project and helped lead a group of 5 f
 
 We wanted to create a useful recommendation system that could be a tool in the everyday lives of people.
 
-After speaking with friends, family, and others, we identified possible improvements to how music is currently recommended. Mainly done through screaming platforms, services like Spotify’s Related Artists and Apple Music’s recommendations give suggestions for popular artists based on their shared listeners and genre, but do not take other user preferences into account.
+After speaking with friends, family, and others, we identified possible improvements to how music is currently recommended. Mainly done through streaming platforms, services like Spotify’s Related Artists and Apple Music’s recommendations give suggestions for popular artists based on their shared listeners and genre, but do not take other user preferences into account.
 
 How might we…
 1. Create a platform that is personalized and gives the users recommendations that are more tailored to their tastes?
@@ -42,7 +42,7 @@ How might we…
 **Team**
 
 We were a small team of 5:
-- Me, PM & Data Back-End
+- Me: PM & Data Back-End
 - Celine: Front-End
 - Alyssa: Web & Data Back-End
 - Mahak: Front-End
@@ -56,7 +56,7 @@ We started brainstorming in mid-March and launched the final version of [Similar
 
 Features:
 
-- User can input multiple liked and disliked artists
+- User can input <mark>multiple liked and disliked artists</mark>
 - User can give a description of the type of music/artist they want to see with a linguistic descriptor
 - Analysis of lyric and genre similarity to find best match for user
 - Similarity score of results to user’s preferences
