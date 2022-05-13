@@ -55,7 +55,7 @@ Current / 2022
 
 Another project that I am in the midst of working on. This is currently in the prototyping stage.
 
-Eating Out is a service that <mark>improves</mark> upon how current food searches function. Rather than finding top places based on just other user reviews, it gives the user the option to specific <mark>exactly what they want<mark>. It also provides a comprehensive look at the menu to show exactly what dishes to order and the pricing.
+Eating Out is a service that <mark>improves</mark> upon how current food searches function. Rather than finding top places based on just other user reviews, it gives the user the option to specific <mark>exactly what they want</mark>. It also provides a comprehensive look at the menu to show exactly what dishes to order and the pricing.
 
 ---
 
