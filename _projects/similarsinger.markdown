@@ -100,6 +100,9 @@ Technical Updates:
 
 **Launch**
 
+<mark>Video Demo of Final Product (Click on the Image to go to YouTube)</mark>
+[![Similar Singer Demo](thumbnail.jpeg)](https://youtu.be/0Hjs5XMiIlo "Similar Singer Demo")
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="center" src="{{ '/assets/img/milestone1.jpg' | relative_url }}" alt="" title="milestone1"/>
