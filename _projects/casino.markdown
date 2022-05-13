@@ -62,7 +62,7 @@ In Casino, we managed to work a lot on user input and specifically, continuing t
 The project was split into three milestones: milestone 1, milestone 2, and milestone 3.
 
 Throughout each milestone, we utilized the following:
-- Productivity: We were productive as a team. It was tricky finding times to meet together, especially near the end of the semester with finals, so we would usually give each other updates on what we had accomplished.
-- Partner Programming: We (Jerilyn and Mahak) also utilized partner programming, which was very helpful for debugging and also deciding how to implement functions. Because we could run ideas through each other, the process became much more collaborative and faster.
-- Testing: Because our system ran through the terminal, much of the testing was from user inputs. Manually testing the many user inputs was quite time consuming, as the recursion made it so that it was sometimes hard to debug. We managed to complete the project and present something that can be played and mimics a real casino.
-- Feedback: We asked our TA and other people who were playing the game on what could be improved. This allowed us to reach a better user interface where it was intuitive and have a multi-player mode.
+- <mark>Productivity</mark>: We were productive as a team. It was tricky finding times to meet together, especially near the end of the semester with finals, so we would usually give each other updates on what we had accomplished.
+- <mark>Partner Programming</mark>: We (Jerilyn and Mahak) also utilized partner programming, which was very helpful for debugging and also deciding how to implement functions. Because we could run ideas through each other, the process became much more collaborative and faster.
+- <mark>Testing</mark>: Because our system ran through the terminal, much of the testing was from user inputs. Manually testing the many user inputs was quite time consuming, as the recursion made it so that it was sometimes hard to debug. We managed to complete the project and present something that can be played and mimics a real casino.
+- <mark>Feedback</mark>: We asked our TA and other people who were playing the game on what could be improved. This allowed us to reach a better user interface where it was intuitive and have a multi-player mode.
