@@ -140,9 +140,9 @@ Links:
 
 Here are the links to each of the demos. Users can access and use them to see the different iterations and get artist recommendations.
 
-- [First Demo](https://similarsinger.herokuapp.com/ )
-- [Second Demo](https://similarsinger-prototype2.herokuapp.com/ )
-- [Final Product](https://similarsinger-final.herokuapp.com/ )
+- **[First Demo](https://similarsinger.herokuapp.com/ )**
+- **[Second Demo](https://similarsinger-prototype2.herokuapp.com/ )**
+- **[Final Product](https://similarsinger-final.herokuapp.com/ )**
 
 
 **Impact**

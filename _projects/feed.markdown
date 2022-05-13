@@ -32,9 +32,9 @@ Food revolves around everything that we do. From farm to table, the ingredients 
 
 How we're approaching this:
 
-1. <mark>A single ingredient</mark>: the basic building block of food. How do you use this?
-2. <mark>A dish</mark>: an old family recipe, your favorite order, this could be anything.
-3. <mark>A restaurant</mark>: your local family go-to, a place that's been a mainstay in your community for generations, the hot new establishment, or maybe even a chain restaurant...
+1. **A single ingredient**: the basic building block of food. How do you use this?
+2. **A dish**: an old family recipe, your favorite order, this could be anything.
+3. **A restaurant**: your local family go-to, a place that's been a mainstay in your community for generations, the hot new establishment, or maybe even a chain restaurant...
 
 All of these different facets of food have stories behind them. We want people to share and connect.
 

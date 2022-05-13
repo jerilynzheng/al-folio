@@ -20,7 +20,7 @@ Product Manager & Backend / Fall 2021 to Present
     Onomatic
 </div>
 
-Onomatic is a tool that utilizes <mark>sound to teach language</mark>. Deriving from onomatopoeia, the formation of a word through the phonetic imitation of the sound it makes, this system focuses on <mark>listening and speaking tools</mark> to help users learn.
+Onomatic is a tool that utilizes <mark>sound to teach language</mark>. Deriving from onomatopoeia, the formation of a word through the phonetic imitation of the sound it makes, this system focuses on listening and speaking tools to help users learn.
 
 ---
 
@@ -31,12 +31,12 @@ Onomatic is a tool that utilizes <mark>sound to teach language</mark>. Deriving 
 Language learning is a process that lasts for a lifetime. Throughout school, much of the emphasis of language learning is based on developing the proper vocabulary and grammar. However, after speaking with parents and teachers of students with learning disabilities during the pandemic, we realized that the challenges of learning languages online are heightened by the reduced immersion. Because students cannot practice and stay engaged in conversations and active applications of the new words that they learn, they retain less.
 
 We wanted to create a platform that addresses 3 main points:
-1. <mark>Accessibility</mark>: We want everyone to be able to learn languages in an engaging,
+1. **Accessibility**: We want everyone to be able to learn languages in an engaging,
 personalized way.
-2. <mark>Cultural Immersion</mark>: We want to provide the proper cultural contexts,
+2. **Cultural Immersion**: We want to provide the proper cultural contexts,
 understanding that languages have different usages and customs throughout the
 world.
-3. <mark>Memory</mark>: We want users to remember the language long-term and be able to
+3. **Memory**: We want users to remember the language long-term and be able to
 apply their knowledge outside of the classroom.
 
 **Team**
@@ -110,6 +110,7 @@ Eventually, a question and answer type interface will be integrated into the web
 
 **Learnings (so far)**
 
-- Time: it is extremely tricky working with no real deadline. To coordinate with my team,
+- <mark>Time</mark>: it is extremely tricky working with no real deadline. To coordinate with my team,
  I often have to plan out an exact timeline and come up with milestones we need to hit in order to stay on track.
-- Usability: because we are designing for a specific sector of users, it's hard to get feedback until we can test in classrooms.
+- <mark>Usability</mark>: because we are designing for a specific sector of users, it's hard to get feedback until we can test in classrooms.
+- <mark>Context</mark>: Our team is familiar with English, Chinese, Arabic, and Spanish, but with other languages, we will need to find ways to check cultural context without our own knowledge.
