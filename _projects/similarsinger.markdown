@@ -20,9 +20,9 @@ Product Manager & Backend / February 2021 to May 2021
     Similar Singer
 </div>
 
-[Similar Singer](https://similarsinger-final.herokuapp.com/) is a musical artist recommendation engine that allows users to get new artist and song recommendations based on their current musical preferences. As a final project for CS 4300: Language and Information, it served as the culminating experience of months of work within a remote team.
+[Similar Singer](https://similarsinger-final.herokuapp.com/) is a musical artist recommendation engine that allows users to get <mark>new artist and song recommendations</mark> based on their current musical preferences. As a final project for CS 4300: Language and Information, it served as the culminating experience of months of work within a remote team.
 
-I was the PM and backend developer on the project and helped lead a group of 5 from ideation to launch in 3 months.
+I was the <mark>PM and backend developer</mark> on the project and helped lead a group of 5 from ideation to launch in 3 months.
 
 ---
 
@@ -30,7 +30,7 @@ I was the PM and backend developer on the project and helped lead a group of 5 f
 
 **Problem**
 
-We wanted to create a useful recommendation system that could be a tool in the everyday lives of people.
+We wanted to create a <mark>useful recommendation system</mark> that could be a tool in the everyday lives of people.
 
 After speaking with friends, family, and others, we identified possible improvements to how music is currently recommended. Mainly done through streaming platforms, services like Spotify’s Related Artists and Apple Music’s recommendations give suggestions for popular artists based on their shared listeners and genre, but do not take other user preferences into account.
 
@@ -85,7 +85,7 @@ Key takeaways:
 
 - Our initial instinct was to utilize just cosine similarity and natural language processing, but those did not impact the results as much as we thought.
 - The Heroku platform was finicky at times, and getting + maintaining data from Spotify and Pitchfork was trickier than expected.
-- We initially had lyric similarity and genre similarity weighted equally, but after speaking with potential users, they wanted genre to be weighed heavier.
+- We initially had lyric similarity and genre similarity weighed equally, but after speaking with potential users, they wanted genre to be weighed heavier.
 - Users like the ability to have suggested artists and play songs right away.
 
 **Challenges**
@@ -106,7 +106,7 @@ Technical Updates:
     </div>
 </div>
 <div class="caption">
-    First Demo
+    First Demo, mostly getting the layout and bare bones format.
 </div>
 
 <div class="row">
@@ -115,7 +115,7 @@ Technical Updates:
     </div>
 </div>
 <div class="caption">
-    Second Demo
+    Second Demo, finding artists that match the query and more information.
 </div>
 
 <div class="row">
@@ -133,10 +133,12 @@ Technical Updates:
     </div>
 </div>
 <div class="caption">
-    Final Product
+    Final Product: with multiple artists, linguistic descriptor, and songs.
 </div>
 
 Links:
+
+Here are the links to each of the demos. Users can access and use them to see the different iterations and get artist recommendations.
 
 - [First Demo](https://similarsinger.herokuapp.com/ )
 - [Second Demo](https://similarsinger-prototype2.herokuapp.com/ )
@@ -145,12 +147,12 @@ Links:
 
 **Impact**
 
-Our final product culminated in a user experience that many wanted to recommend to their friends and family. The integration of Spotify and Pitchfork made it easy for users to find songs and albums immediately. Users updated their playlists and libraries immediately.
+Our final product culminated in a user experience that many wanted to recommend to their friends and family. The integration of <mark>Spotify and Pitchfork</mark> made it easy for users to find songs and albums immediately. Users updated their playlists and libraries immediately.
 
 **Learnings**
 
-- Teamwork: Team members all need to work together and communicate roles. You have to be there to help ensure that your members feel supported and able to express their ideas.
-- Problem Solving: From the moment we started the project, every part involved some sort of adaptation and adjustment to road blocks. Taking these strides in place and learning how to fix issues without changing the original goal meant using analytical skills and flexibility.
-- Technical: The overall scope of the project involved many moving parts and concepts, including machine learning, natural language processing, data science, and web development. If there was something we did not understand, we did not hesitate to ask each other or do research.
-- Communication: Platforms like Zoom and Slack made it a lot easier to meet with group members, but group meetings were key to our success. I outlined agendas and came in with how we needed to adapt to user needs. When we left these meetings, we had clear goals and how to shift.
-- Presentation: Users like a clean, usable product. We created a design that looked aesthetically pleasing but also conveyed a lot of information without being overwhelming. I learned that having an intuitive product is key to success.
+- <mark>Teamwork</mark>: Team members all need to work together and communicate roles. You have to be there to help ensure that your members feel supported and able to express their ideas.
+- <mark>Problem Solving</mark>: From the moment we started the project, every part involved some sort of adaptation and adjustment to road blocks. Taking these strides in place and learning how to fix issues without changing the original goal meant using analytical skills and flexibility.
+- <mark>Technical</mark>: The overall scope of the project involved many moving parts and concepts, including machine learning, natural language processing, data science, and web development. If there was something we did not understand, we did not hesitate to ask each other or do research.
+- <mark>Communication</mark>: Platforms like Zoom and Slack made it a lot easier to meet with group members, but group meetings were key to our success. I outlined agendas and came in with how we needed to adapt to user needs. When we left these meetings, we had clear goals and how to shift.
+- <mark>Presentation</mark>: Users like a clean, usable product. We created a design that looked aesthetically pleasing but also conveyed a lot of information without being overwhelming. I learned that having an intuitive product is key to success.

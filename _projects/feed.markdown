@@ -32,9 +32,9 @@ Food revolves around everything that we do. From farm to table, the ingredients 
 
 How we're approaching this:
 
-1. A single ingredient: the basic building block of food. How do you use this?
-2. A dish: an old family recipe, your favorite order, this could be anything.
-3. A restaurant: your local family go-to, a place that's been a mainstay in your community for generations, the hot new establishment, or maybe even a chain restaurant...
+1. <mark>A single ingredient</mark>: the basic building block of food. How do you use this?
+2. <mark>A dish</mark>: an old family recipe, your favorite order, this could be anything.
+3. <mark>A restaurant</mark>: your local family go-to, a place that's been a mainstay in your community for generations, the hot new establishment, or maybe even a chain restaurant...
 
 All of these different facets of food have stories behind them. We want people to share and connect.
 
@@ -53,28 +53,28 @@ All of these different facets of food have stories behind them. We want people t
 
 Another project that I am in the midst of working on. This is currently in the prototyping stage.
 
-Eating Out is a service that improves upon how current food searches function. Rather than finding the top places based on just other user reviews, it gives the user the option to specific exactly what they want. It also provides a comprehensive look at the menu to show exactly what dishes to order and the pricing.
+Eating Out is a service that improves upon how current food searches function. Rather than finding top places based on just other user reviews, it gives the user the option to specific exactly what they want. It also provides a comprehensive look at the menu to show exactly what dishes to order and the pricing.
 
 ---
 
 **Overview**
 
-- Finding the best food based on specific personal preferences
+- Finding the best food based on <mark>specific personal preferences</mark>
 - Takes parameters into account (number of people, prices, portion sizes, leftovers, pictures)
-- Specifics for food restrictions and allergies (protein, keto diet, dietary restrictions, calories)
+- Details for <mark>food restrictions and allergies</mark> (protein, keto diet, dietary restrictions, calories)
 
 **Problem**
 
-This idea came about when I was frustrated with current food review apps. Yelp, with its vast amount of reviews and information, could not help me narrow down the decision of was "the best". Basic information that would be easy to ask in the restaurant took lots of searching and filtering to find.
+This idea came about when I was frustrated with current food review apps. Yelp, with its vast amount of reviews and information, could not help me narrow down the decision of was "the best". Basic information that would be easy to ask in the restaurant took lots of searching and filtering to find. I decided to try and solve the problem by filling in the gap, looking to create a comprehensive service that compiled these useful details together in a simple but effective way.
 
 **Team**
 
-Both of these teams are still in the process of being refined.
+Both of these teams are still in the process of being refined. I am currently thinking of starting with a team of 4-5 people, and then expanding it as the scope of the project widens.
 
 **Learnings (so far)**
 
 These projects are in their early stages, but it's extremely exciting to try and come up with interesting ideas and bring them to fruition.
 
-- Research: in reading how others write about food, it's interesting how it can range from heartfelt prose to something as simple as "I like this because it tastes good." The nuances of how people approach this topic (and what they prefer) are super intriguing. 
-- Communication: the visual aspect of this platform will be extremely important. Food is such a visual medium that when combined with text, we will need ensure that the inferface is clean and minimalistic.
-- Problem Solving: I am thinking about how to ensure that the information from third-party sources is vetted and consistent. Specifically with restaurants, I am thinking of using users to verify details like price, food images, and dietary restrictions.
+- <mark>Research</mark>: in reading how others write about food, it's interesting how it can range from heartfelt prose to something as simple as "I like this because it tastes good." The nuances of how people approach this topic (and what they prefer) are super intriguing. 
+- <mark>Communication</mark>: the visual aspect of this platform will be extremely important. Food is such a visual medium that when combined with text, we will need ensure that the inferface is clean and minimalistic.
+- <mark>Problem Solving</mark>: I am thinking about how to ensure that the information from third-party sources is vetted and consistent. Specifically with restaurants, I am thinking of using users to verify details like price, food images, and dietary restrictions.

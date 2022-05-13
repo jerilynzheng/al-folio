@@ -20,7 +20,7 @@ Product Manager & Backend / Fall 2021 to Present
     Onomatic
 </div>
 
-Onomatic is a tool that utilizes sound to teach language. Deriving from onomatopoeia, the formation of a word through the phonetic imitation of the sound it makes, this system focuses on listening and speaking tools to help users learn.
+Onomatic is a tool that utilizes <mark>sound to teach language</mark>. Deriving from onomatopoeia, the formation of a word through the phonetic imitation of the sound it makes, this system focuses on <mark>listening and speaking tools</mark> to help users learn.
 
 ---
 
@@ -31,12 +31,12 @@ Onomatic is a tool that utilizes sound to teach language. Deriving from onomatop
 Language learning is a process that lasts for a lifetime. Throughout school, much of the emphasis of language learning is based on developing the proper vocabulary and grammar. However, after speaking with parents and teachers of students with learning disabilities during the pandemic, we realized that the challenges of learning languages online are heightened by the reduced immersion. Because students cannot practice and stay engaged in conversations and active applications of the new words that they learn, they retain less.
 
 We wanted to create a platform that addresses 3 main points:
-1. Accessibility: We want everyone to be able to learn languages in an engaging,
+1. <mark>Accessibility</mark>: We want everyone to be able to learn languages in an engaging,
 personalized way.
-2. Cultural Immersion: We want to provide the proper cultural contexts,
+2. <mark>Cultural Immersion</mark>: We want to provide the proper cultural contexts,
 understanding that languages have different usages and customs throughout the
 world.
-3. Memory: We want users to remember the language long-term and be able to
+3. <mark>Memory</mark>: We want users to remember the language long-term and be able to
 apply their knowledge outside of the classroom.
 
 **Team**
@@ -53,17 +53,17 @@ want to scale the languages and lessons to the point where they can be used in c
 
 Features:
 
-1. Sound: Proper pronunciation of word, definition, example usages in every language
-2. Lessons: Sets of words used in specific scenarios
-3. Games: Users can play engaging word games to remember
-4. Mnemonic: Memory devices, recorded: acronyms, patterns, songs, word
+1. <mark>Sound</mark>: Proper pronunciation of word, definition, example usages in every language
+2. <mark>Lessons</mark>: Sets of words used in specific scenarios
+3. <mark>Games</mark>: Users can play engaging word games to remember
+4. <mark>Mnemonic</mark>: Memory devices, recorded: acronyms, patterns, songs, word
 associations between different languages, word roots
-5. Personalization: User can add their own ideas to any of the other features and
+5. <mark>Personalization</mark>: User can add their own ideas to any of the other features and
 create their own sets
 
 On each card, you can hear the word, hear a sentence with the word, and toggle back and forth between languages. Users can also create their own lessons, with all of the same features available to them. Additionally, users can jot down notes on the word or memory devices, either by recording their cues or typing them. Users create accounts to track progress on their favorite sets and follow lesson plans.
 
-If comparing Onomatic to existing systems, this application takes existing elements from Duolingo and Quizlet, such as flashcards and language learning. However, it adds additional features tailored towards introductory language learners focusing on vocabulary. Onomatic will also provide a core feature allowing for users to record their own audio for phrases, sentences, definitions, and more. Each user-created audio recording will come with information about where the speaker comes from and what type of accent or dialect is used by the speaker. 
+If comparing Onomatic to existing systems, this application takes existing elements from Duolingo and Quizlet, such as flashcards and language learning. However, it adds additional features tailored towards introductory language learners focusing on <mark>vocabulary</mark>. Onomatic will also provide a core feature allowing for users to <mark>record their own audio</mark> for phrases, sentences, definitions, and more. Each user-created audio recording will come with information about where the speaker comes from and what type of accent or dialect is used by the speaker. 
 
 
 
