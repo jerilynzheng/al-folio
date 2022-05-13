@@ -11,7 +11,7 @@
   Jerilyn Zheng
 
 
-  | play
+  | Casino
 
 </title>
 <meta name="description" content="">
@@ -39,7 +39,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌁</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/work/casino/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -164,20 +164,78 @@
     <!-- Content -->
 
     <div class="container mt-1">
-      <div class="post">
+      <div class="descrip">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+  <header class="post-header">
+     <h5 class="desc"></h5>
+  </header>
 
+  <article>
+    <p><strong>Casino</strong></p>
 
-  <ul class="post-list">
-    
-  </ul>
+<p>Project Lead + Code / Fall 2020</p>
 
-  
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="center" src="/assets/img/casino.jpg" alt="" title="casino" />
+    </div>
+</div>
+<div class="caption">
+    Casino
+</div>
 
+<p>This casino project imitates a real-life casino environment. Players can play 2 games: <mark>slot machine and blackjack</mark>.</p>
+
+<hr />
+
+<p><strong>Overview</strong></p>
+
+<p><strong>Team</strong></p>
+
+<p>This project was from October 2020 to December 2020. It was the final project for CS 3110.</p>
+
+<p>There were three group members.</p>
+<ul>
+  <li>Jerilyn</li>
+  <li>Mahak</li>
+  <li>Carter</li>
+</ul>
+
+<p>In addition to splitting the Ocaml coding with my other team members, I acted as the <mark>liason</mark> between our TA and the rest of our group, working to make sure that our team was on track and making good progress. I also led out team meetings and worked with the other members to set realisitic deliverables.</p>
+
+<p><strong>Features</strong></p>
+
+<p>The player can access games from the casino. They can play 2 games: slot machine and blackjack. The player can <mark>win</mark> money and <mark>gamble</mark> money across multiple games and then leave with their final balance. Multiple players can join the casino and make wagers.</p>
+
+<p>One person can play the slot machine at a time, and as many players in the casino can choose if they want to play blackjack and make their own wagers. After playing a game, each players’ balance will be <mark>updated based on the wagers</mark> that they made. After playing the game, players can choose to stay or leave the casino. If they choose to stay, they can pick the game they want to <mark>play again</mark>, and can continue to be in the casino as long as everyone’s balance is greater than 0.</p>
+
+<p><strong>Product</strong></p>
+
+<p>Coded entirely in Ocaml, the casino is played through the terminal.</p>
+
+<p><strong>Outcome</strong></p>
+
+<p>We managed to complete the project and present something that can be played and mimics a real casino.</p>
+
+<p>Before, Blackjack only worked with one player, but now <mark>multiple players</mark> can play at once. We also upgraded the casino so that each player and their wagers are stored, and can be updated after playing games. We also made our project a lot more user friendly. Instead of having the user call multiple functions in utop, there is one overarching function that brings everything together and requires <mark>only user inputs</mark>.</p>
+
+<p>The Blackjack compilation unit was upgraded so that it reflected more of the <mark>quirks in blackjack rules</mark>. The game now factors in wins, losses, and ties. The game also accounts for the values of face cards as 10, and also factors in how the values of aces change from 1 to 11 depending on the total sum. The game can be played with multiple players against the dealer.</p>
+
+<p>In Casino, we managed to work a lot on <mark>user input</mark> and specifically, continuing to prompt for inputs until the user gives one that works for the casino. For example, if a user bets more money than they have in their balance, the casino will continue asking them for a bet until it is valid. Another example of this is when a player enters in a non-integer value for the balance. The system detects this and continues asking, rather than failing and forcing the user to start again. After playing a game, players can choose to stay or leave if everyone in the casino still has a positive balance. This reflects an actual casino environment, and encapsulates the idea of playing <mark>multiple different games in the casino</mark>.</p>
+
+<p><strong>Learnings</strong></p>
+
+<p>The project was split into three milestones: milestone 1, milestone 2, and milestone 3.</p>
+
+<p>Throughout each milestone, we utilized the following:</p>
+<ul>
+  <li><mark>Productivity</mark>: We were productive as a team. It was tricky finding times to meet together, especially near the end of the semester with finals, so we would usually give each other updates on what we had accomplished.</li>
+  <li><mark>Partner Programming</mark>: We (Jerilyn and Mahak) also utilized partner programming, which was very helpful for debugging and also deciding how to implement functions. Because we could run ideas through each other, the process became much more collaborative and faster.</li>
+  <li><mark>Testing</mark>: Because our system ran through the terminal, much of the testing was from user inputs. Manually testing the many user inputs was quite time consuming, as the recursion made it so that it was sometimes hard to debug. We managed to complete the project and present something that can be played and mimics a real casino.</li>
+  <li><mark>Feedback</mark>: We asked our TA and other people who were playing the game on what could be improved. This allowed us to reach a better user interface where it was intuitive and have a multi-player mode.</li>
+</ul>
+
+  </article>
 
 </div>
 
