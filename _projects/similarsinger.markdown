@@ -90,7 +90,7 @@ Key takeaways:
 
 **Challenges**
 
-The biggest challenge came from working in multiple different time zones and making sure that we kept making progress. To consistently meet and align <mark>goals and responsibilities</mark>, we had weekly meetings and milestone submissions. I directed the group and organized the direction of these sessions, working to resolve issues <mark>methodically</mark>. I also acted to <mark>prioritize</mark> key product features and capabilities, thinking about the <mark>user first</mark>.
+The biggest challenge came from working in multiple different time zones and making sure that we kept making progress. To consistently meet and align <mark>goals</mark> and responsibilities, we had weekly meetings and milestone submissions. I directed the group and organized the direction of these sessions, working to resolve issues <mark>methodically</mark>. I also acted to <mark>prioritize</mark> key product features and capabilities, thinking about the <mark>user first</mark>.
 
 Technical Updates:
 - When a user is interested in music without lyrics, we need to prioritize the genre of their liked artist

@@ -2,7 +2,7 @@
 layout: page
 title: Work
 permalink: /
-description: Hi, I'm Jerilyn.
+description: Hi, I'm Jerilyn, an incoming associate at BCG graduating from Cornell University with a B.S. in Computer Science.
 nav: true
 display_categories:
 horizontal: false
