@@ -28,7 +28,7 @@ Onomatic is a tool that utilizes <mark>sound to teach language</mark>. Deriving 
 
 **Problem**
 
-Language learning is a process that lasts for a lifetime. Throughout school, much of the emphasis of language learning is based on developing the proper vocabulary and grammar. However, after speaking with parents and teachers of students with learning disabilities during the pandemic, we realized that the challenges of learning languages online are heightened by the reduced immersion. Because students cannot practice and stay engaged in conversations and active applications of the new words that they learn, they retain less.
+Language learning is a process that lasts for a lifetime. Throughout school, much of the emphasis of language learning is based on developing the proper vocabulary and grammar. However, after speaking with parents and teachers of students with learning disabilities during the pandemic, we realized that the challenges of learning languages online are heightened by the reduced immersion. Because students cannot <mark>practice and stay engaged</mark> in conversations and active applications of the new words that they learn, they retain less.
 
 We wanted to create a platform that addresses 3 main points:
 1. **Accessibility**: We want everyone to be able to learn languages in an engaging,
@@ -98,15 +98,13 @@ If comparing Onomatic to existing systems, this application takes existing eleme
 
 Each language class comes with sets tailored toward specific scenarios. A lesson comes with a set of cards. The card can vocalize the new word, an example sentence, and its part of speech in both the native and target languages. To support the sound, a visual aid is also provided in the form of an image depicting said word on the card.
 
-The importance of word formation is also emphasized and used to help the user remember words long term. Memory devices linking the language back to their own native language, user-generated memory, roots of words, and similar words are examples of information that can be stored for each specific card or phrase.
+The importance of <mark>word formation</mark> is also emphasized and used to help the user remember words long term. Memory devices linking the language back to their own native language, user-generated memory, roots of words, and similar words are examples of <mark>information</mark> that can be stored for each specific card or phrase.
 
-On each card, you can hear the word, hear a sentence with the word, and toggle back and forth between languages. Users can also create their own lessons, with all of the same features available to them. Additionally, users can jot down notes on the word or memory devices, either by recording their cues or typing them. Users create accounts to track progress on their favorite sets and follow lesson plans.
-
-There is also a question and answer interface integrated into Onomatic. The focus of the interface is elicitations with other users. For example, one user could ask for someone to say a specific phrase or sentence in a certain dialect or accent, and other users could reply with a recording of their own voice.
+On each card, you can hear the word, hear a sentence with the word, and toggle back and forth <mark>between languages</mark>. Users can also create their <mark>own lessons</mark>, with all of the same features available to them. Additionally, users can jot down notes on the word or memory devices, either by recording their cues or typing them. Users create accounts to <mark>track progress</mark> on their favorite sets and follow lesson plans.
 
 **Future**
 
-Eventually, a question and answer type interface will be integrated into the website. The focus of the interface will be elicitations with other users. For example, one user could ask for someone to say a specific phrase or sentence in a certain dialect or accent, and other users could reply with a recording of their own voice.
+Eventually, a <mark>question and answer</mark> type interface will be integrated into the website. The focus of the interface will be elicitations with other users. For example, one user could ask for someone to say a specific phrase or sentence in a certain dialect or accent, and other users could reply with a recording of their own voice.
 
 **Learnings (so far)**
 

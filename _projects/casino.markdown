@@ -35,7 +35,7 @@ There were three group members.
 - Mahak
 - Carter
 
-In addition to splitting the Ocaml coding with my other team members, I acted as the liason between our TA and the rest of our group, working to make sure that our team was on track and making good progress. I also led out team meetings and worked with the other members to set realisitic deliverables.
+In addition to splitting the Ocaml coding with my other team members, I acted as the <mark>liason</mark> between our TA and the rest of our group, working to make sure that our team was on track and making good progress. I also led out team meetings and worked with the other members to set realisitic deliverables.
 
 **Features**
 
@@ -55,7 +55,7 @@ Before, Blackjack only worked with one player, but now <mark>multiple players</m
 
 The Blackjack compilation unit was upgraded so that it reflected more of the <mark>quirks in blackjack rules</mark>. The game now factors in wins, losses, and ties. The game also accounts for the values of face cards as 10, and also factors in how the values of aces change from 1 to 11 depending on the total sum. The game can be played with multiple players against the dealer.
 
-In Casino, we managed to work a lot on user input and specifically, continuing to prompt for inputs until the user gives one that works for the casino. For example, if a user bets more money than they have in their balance, the casino will continue asking them for a bet until it is valid. Another example of this is when a player enters in a non-integer value for the balance. The system detects this and continues asking, rather than failing and forcing the user to start again. After playing a game, players can choose to stay or leave if everyone in the casino still has a positive balance. This reflects an actual casino environment, and encapsulates the idea of playing <mark>multiple different games in the casino</mark>. 
+In Casino, we managed to work a lot on <mark>user input</mark> and specifically, continuing to prompt for inputs until the user gives one that works for the casino. For example, if a user bets more money than they have in their balance, the casino will continue asking them for a bet until it is valid. Another example of this is when a player enters in a non-integer value for the balance. The system detects this and continues asking, rather than failing and forcing the user to start again. After playing a game, players can choose to stay or leave if everyone in the casino still has a positive balance. This reflects an actual casino environment, and encapsulates the idea of playing <mark>multiple different games in the casino</mark>. 
 
 **Learnings**
 
