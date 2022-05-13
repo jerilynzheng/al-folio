@@ -34,10 +34,10 @@ We wanted to create a <mark>useful recommendation system</mark> that could be a 
 
 After speaking with friends, family, and others, we identified possible improvements to how music is currently recommended. Mainly done through streaming platforms, services like Spotify’s Related Artists and Apple Music’s recommendations give suggestions for popular artists based on their shared listeners and genre, but do not take other user preferences into account.
 
-How might we…
-1. Create a platform that is personalized and gives the users recommendations that are more tailored to their tastes?
+**How might we…**
+1. Create a platform that is <mark>personalized</mark> and gives the users recommendations that are more tailored to their tastes?
 2. Allow users to specify the type of songs they want?
-3. Give users the option to sample these songs and immediately access new music?
+3. Give users the option to sample these songs and immediately access <mark>new music</mark>?
 
 **Team**
 
@@ -57,14 +57,14 @@ We started brainstorming in mid-March and launched the final version of [Similar
 Features:
 
 - User can input <mark>multiple liked and disliked artists</mark>
-- User can give a description of the type of music/artist they want to see with a linguistic descriptor
-- Analysis of lyric and genre similarity to find best match for user
-- Similarity score of results to user’s preferences
-- Information about recommended artists
+- User can give a description of the type of music/artist they want to see with a <mark>linguistic descriptor<mark>
+- Analysis of <mark>lyric and genre similarity</mark> to find best match for user
+- **Similarity score** of results to user’s preferences
+- <mark>Information</mark> about recommended artists
 - Genres
-- Ranked similarities to user’s preferences
-- Spotify submodule of top songs and followings
-- Pitchfork album reviews and ratings
+- <mark>Ranked similarities</mark> to user’s preferences
+- **Spotify** submodule of top songs and followings
+- **Pitchfork** album reviews and ratings
 
 **Product**
 
@@ -94,9 +94,9 @@ The biggest challenge came from working in multiple different time zones and mak
 
 Technical Updates:
 - When a user is interested in music without lyrics, we need to prioritize the genre of their liked artist
-- Social Component: users want to see artists that other similar users also listen to, so we realized we needed to incorporate shared followers
-- Utilizing machine learning with an LDA model with a tokenized, lemmatized corpus of around 1,200 Pitchfork albums: topic modeling with a much larger corpus from both Amazon and Pitchfork resulted in non-English language reviews
-- Dynamic: using the rocchio update algorithm, we combined the liked and disliked artists from the user to vectorize their preferences
+- <mark>Social Component</mark>: users want to see artists that other similar users also listen to, so we realized we needed to incorporate shared followers
+- Utilizing <mark>machine learning</mark> with an LDA model with a tokenized, lemmatized corpus of around 1,200 Pitchfork albums: topic modeling with a much larger corpus from both Amazon and Pitchfork resulted in non-English language reviews
+- Dynamic: using the Rocchio update algorithm, we combined the <mark>liked and disliked artists</mark> from the user to vectorize their preferences
 
 **Launch**
 

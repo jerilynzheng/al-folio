@@ -20,7 +20,7 @@ Current
     Feed
 </div>
 
-Feed is centered around images for one particular food item. Users compile their own descriptiion and recipes including this item, or just the singular ingredient itself. They tell their personal stories behind the food and why it is meaningful to them.
+Feed is centered around images for one particular food item. Users compile their own descriptiion and recipes including this item, or just the singular ingredient itself. They tell their <mark>personal stories</mark> behind the food and why it is meaningful to them.
 
 ---
 
@@ -53,7 +53,7 @@ All of these different facets of food have stories behind them. We want people t
 
 Another project that I am in the midst of working on. This is currently in the prototyping stage.
 
-Eating Out is a service that improves upon how current food searches function. Rather than finding top places based on just other user reviews, it gives the user the option to specific exactly what they want. It also provides a comprehensive look at the menu to show exactly what dishes to order and the pricing.
+Eating Out is a service that <mark>improves</mark> upon how current food searches function. Rather than finding top places based on just other user reviews, it gives the user the option to specific <mark>exactly what they want<mark>. It also provides a comprehensive look at the menu to show exactly what dishes to order and the pricing.
 
 ---
 
@@ -65,7 +65,7 @@ Eating Out is a service that improves upon how current food searches function. R
 
 **Problem**
 
-This idea came about when I was frustrated with current food review apps. Yelp, with its vast amount of reviews and information, could not help me narrow down the decision of was "the best". Basic information that would be easy to ask in the restaurant took lots of searching and filtering to find. I decided to try and solve the problem by filling in the gap, looking to create a comprehensive service that compiled these useful details together in a simple but effective way.
+This idea came about when I was frustrated with current food review apps. Yelp, with its vast amount of reviews and information, could not help me <mark>narrow down</mark> the decision of was "the best". Basic information that would be easy to ask in the restaurant took lots of searching and filtering to find. I decided to try and solve the problem by filling in the gap, looking to create a <mark>comprehensive service</mark> that compiled these useful details together in a <mark>simple but effective way</mark>.
 
 **Team**
 
