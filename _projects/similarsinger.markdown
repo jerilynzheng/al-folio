@@ -140,6 +140,7 @@ Links:
 
 Here are the links to each of the demos. Users can access and use them to see the different iterations and get artist recommendations.
 
+- **[Github Repo](https://github.com/chynu/cs4300sp2021-ag2496-cc972-mb2359-jjz67-jxl8)**
 - **[First Demo](https://similarsinger.herokuapp.com/ )**
 - **[Second Demo](https://similarsinger-prototype2.herokuapp.com/ )**
 - **[Final Product](https://similarsinger-final.herokuapp.com/ )**
