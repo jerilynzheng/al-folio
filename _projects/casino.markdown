@@ -9,7 +9,7 @@ category:
 
 **Casino**
 
-Fall 2020
+Project Lead + Code / Fall 2020
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

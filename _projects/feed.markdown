@@ -9,7 +9,7 @@ category:
 
 **Feed**
 
-Current
+Current / 2022
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -42,6 +42,8 @@ All of these different facets of food have stories behind them. We want people t
 
 **Eating Out**
 
+Current / 2022
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="center" src="{{ '/assets/img/eatingout.jpg' | relative_url }}" alt="" title="eating out"/>
@@ -70,6 +72,8 @@ This idea came about when I was frustrated with current food review apps. Yelp, 
 **Team**
 
 Both of these teams are still in the process of being refined. I am currently thinking of starting with a team of 4-5 people, and then expanding it as the scope of the project widens.
+
+---
 
 **Learnings (so far)**
 
